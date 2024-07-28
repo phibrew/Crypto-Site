@@ -1,1 +1,1 @@
-Live site at : ` https://github.com/phibrew/Crypto-Site.git `
+Live site at : ` https://phibrew.github.io/ `
